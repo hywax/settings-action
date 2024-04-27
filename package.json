@@ -9,18 +9,18 @@
     "url": "https://github.com/hywax"
   },
   "license": "MIT",
-  "homepage": "https://github.com/hywax/github-action-template",
+  "homepage": "https://github.com/hywax/settings-action",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/hywax/github-action-templat.git"
   },
   "bugs": {
-    "url": "https://github.com/hywax/github-action-template/issues"
+    "url": "https://github.com/hywax/settings-action/issues"
   },
   "keywords": [
     "github",
     "actions",
-    "template"
+    "settings"
   ],
   "exports": {
     ".": {
