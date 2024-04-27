@@ -50,6 +50,7 @@
     "@antfu/eslint-config": "^2.16.0",
     "@commitlint/cli": "^19.3.0",
     "@commitlint/config-conventional": "^19.2.2",
+    "@types/node": "^20.12.7",
     "@vitest/coverage-v8": "^1.5.2",
     "changelogen": "^0.5.5",
     "eslint": "^9.1.1",
