@@ -1,24 +1,16 @@
-name: Unique of your action name
-description: Description of your action
-author: Your GitHub username
+name: Github Repository Settings Action
+description: Declarative settings Github repository
+author: hywax
 
-# The action's inputs
 inputs:
-  message:
-    description: A greeting message
-    default: Hello, World!
+  path:
+    description: Path to the settings file
+    default: .github/settings.yml
 
-# The action's outputs
-outputs:
-  resultMessage:
-    description: Result message
-
-# Branding
 branding:
-  icon: activity
+  icon: settings
   color: purple
 
-# The action's runs
 runs:
   using: node20
   main: dist/index.js
